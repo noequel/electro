@@ -1,0 +1,118 @@
+.version.o_nas /* version checker */
+{
+	color: #0000E2;
+	background-color: #9CB98F;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 919px;
+	min-height: 760px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 67px 41px 1163px 40px;
+}
+
+#u1163-4
+{
+	z-index: 19;
+	width: 334px;
+	min-height: 37px;
+	background-color: transparent;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	margin-left: 293px;
+	position: relative;
+}
+
+#pu1161-17
+{
+	width: 0.01px;
+}
+
+#u1161-17
+{
+	z-index: 2;
+	width: 919px;
+	min-height: 723px;
+	background-color: transparent;
+	font-size: 16px;
+	font-family: jura, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1161-2,#u1161-4,#u1161-6,#u1161-8,#u1161-10,#u1161-11,#u1161-13,#u1161-14
+{
+	text-align: justify;
+	line-height: 24px;
+}
+
+#u1161-15
+{
+	line-height: 19px;
+}
+
+#u1166
+{
+	z-index: 23;
+	width: 225px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 577px;
+	left: 347px;
+}
+
+#u1164
+{
+	z-index: 24;
+	width: 225px;
+	background-color: #18FF33;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1165-4
+{
+	z-index: 25;
+	width: 225px;
+	min-height: 34px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	margin-bottom: -5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+	padding-top: 36px;
+	padding-bottom: 22px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
